@@ -1,0 +1,6 @@
+# IDEs JetBrains (DataGrip, PyCharm, etc.)
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
